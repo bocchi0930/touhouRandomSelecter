@@ -22,7 +22,7 @@ const songs = [
 "Mystic_Dream",
 "Peaceful_Romancer",
 "魂の休らむ所",
-"Lnit",
+"Init",
 "裏切りの少女_~_Judas_Kiss",
 "東方封魔録_~_浄土曼荼羅",
 "博麗_~_Eastern_Wind",
